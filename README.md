@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aletia88
-- 👀 I’m interested in developing apps
-- 🌱 I’m currently learning flutter
+- 👀 I’m interested in 
+- 🌱 I’m currently 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me my telegram user name @nillionaire_0
 
