@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Samrawit Girma
-- 👀 I’m interested in 
-- 🌱 I’m currently 
+- 👀 I’m interested in web development
+- 🌱 I’m currently learing Node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me my telegram user name @nillionaire_0
 
