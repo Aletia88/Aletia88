@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aletia88
+- 👋 Hi, I’m Samrawit Girma
 - 👀 I’m interested in 
 - 🌱 I’m currently 
 - 💞️ I’m looking to collaborate on ...
